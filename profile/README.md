@@ -1,3 +1,3 @@
-# vlt /vōlt/
+## vlt /vōlt/
 
-vlt.sh
+`vlt.sh`
