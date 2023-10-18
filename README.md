@@ -1,3 +1,1 @@
 # vlt /vōlt/
-
-vlt.sh
