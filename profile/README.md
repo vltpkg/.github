@@ -12,10 +12,9 @@
 
 <p align="center">vlt is building the infrastructure layer for open source software. We create developer tools, package registries, and software supply chain security solutions that help organizations manage, secure, and control the dependencies they rely on.</p>
 
+<p align="center"><a href="https://www.vlt.io"><strong>Try VLT free</strong></a> · <a href="https://docs.vlt.sh/">Read our docs</a> · <a href="https://www.vlt.io/blog">Blog</a> · <a href="https://benchmarks.vlt.sh/#/registries/registry-clean">Benchmarks</a></p>
+
 <p align="center">
-  <a href="https://npmx.dev/org/vltpkg">
-    <img src="https://img.shields.io/npm-stat/dm/vltops?label=Monthly%20Package%20Downloads" alt="Monthly NPM Downloads" />
-  </a><br>
   <a href="https://github.com/vltpkg?tab=repositories">
     <img src="https://www.shieldcn.dev/github/user-stars/vltpkg.svg?mode=light&size=xs&&label=Star%20on%20GitHub" alt="Star on GitHub" />
   </a>
@@ -27,11 +26,12 @@
   </a>
   <a href="https://www.vlt.community/">
     <img src="https://shieldcn.dev/discord/1316199667142496307.svg?mode=light&size=xs&label=Join%20on%20Discord" alt="Join us on Discord" />
-    </a>
+  </a>
+  <br>
+  <a href="https://npmx.dev/org/vltpkg">
+    <img src="https://img.shields.io/npm-stat/dm/vltops?label=Monthly%20Package%20Downloads" alt="Monthly NPM Downloads" />
+  </a>
 </p>
-
-<p align="center"><a href="https://www.vlt.io"><strong>Try VLT free</strong></a> · <a href="https://docs.vlt.sh/">Read our docs</a> · <a href="https://www.vlt.io/blog">Blog</a> · <a href="https://benchmarks.vlt.sh/#/registries/registry-clean">Benchmarks</a></p>
-
 <h3 align="center">Tools we use</h3>
 
 <p align="center">
