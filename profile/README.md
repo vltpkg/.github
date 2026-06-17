@@ -32,19 +32,3 @@
     <img src="https://img.shields.io/npm-stat/dm/vltops?label=Monthly%20Package%20Downloads" alt="Monthly NPM Downloads" />
   </a>
 </p>
-<h3 align="center">Tools we use</h3>
-
-<p align="center">
-  <img src="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=xs" alt="TypeScript" /> 
-  <img src="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=xs" alt="JavaScript" />
-  <img src="https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=xs" alt="ESLint" />
-  <img src="https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded&size=xs" alt="Prettier" />
-  <ing src="https://www.shieldcn.dev/badge/-Drizzle-C5F74F.svg?logo=drizzle&variant=branded&size=xs" alt="Drizzle" />
-  <img src="https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=xs" alt="Zod" />
-  <img src="https://www.shieldcn.dev/badge/-esbuild-FFCF00.svg?logo=esbuild&variant=branded&size=xs" alt="esbuild" />
-  <ing src="https://www.shieldcn.dev/badge/-Vitest-6E9F18.svg?logo=vitest&variant=branded&size=xs" alt="Vitest" />
-  <img src="https://shieldcn.dev/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=fff&variant=branded&size=xs" alt="Tailwind CSS" />
-  <img src="https://shieldcn.dev/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=fff&variant=branded&size=xs" alt="Next.js" />
-  <img src="https://www.shieldcn.dev/badge/-Cloudflare_Workers-F38020.svg?logo=cloudflare&variant=branded&size=xs" alt="Cloudflare Workers" />
-  <img src="https://shieldcn.dev/badge/Vercel-000000.svg?logo=vercel&logoColor=fff&variant=branded&size=xs" alt="Vercel" />
-</p>
