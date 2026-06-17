@@ -12,7 +12,7 @@
 
 <p align="center">vlt is building the infrastructure layer for open source software. We create developer tools, package registries, and software supply chain security solutions that help organizations manage, secure, and control the dependencies they rely on.</p>
 
-<p align="center"><a href="https://www.vlt.io"><strong>Try VLT free</strong></a> · <a href="https://docs.vlt.sh/">Read our docs</a> · <a href="https://www.vlt.io/blog">Blog</a> · <a href="https://benchmarks.vlt.sh/#/registries/registry-clean">Benchmarks</a></p>
+<p align="center"><a href="https://www.vlt.io"><strong>Try VLT free</strong></a> · <a href="https://docs.vlt.sh/">Read our docs</a> · <a href="https://www.vlt.io/blog">Blog</a></p>
 
 <p align="center">
   <a href="https://github.com/vltpkg?tab=repositories">
