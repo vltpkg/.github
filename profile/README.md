@@ -15,19 +15,19 @@
 <p align="center">
   <a href="https://npmx.dev/org/vltpkg">
     <img src="https://img.shields.io/npm-stat/dm/vltops?label=Monthly%20Package%20Downloads" alt="Monthly NPM Downloads" />
-  </a>
+  </a><br>
   <a href="https://github.com/vltpkg?tab=repositories">
-    <img src="https://www.shieldcn.dev/github/user-stars/vltpkg.svg?variant=secondary&&label=Star%20on%20GitHub" alt="Star on GitHub" />
+    <img src="https://www.shieldcn.dev/github/user-stars/vltpkg.svg?mode=light&size=sm&&label=Star%20on%20GitHub" alt="Star on GitHub" />
   </a>
   <a href="https://x.com/vltpkg">
-    <img src="https://shieldcn.dev/x/follow/vltpkg.svg?label=Follow%20on%20X" alt="Follow us on X" />
+    <img src="https://shieldcn.dev/x/follow/vltpkg.svg?mode=light&size=sm&label=Follow%20on%20X" alt="Follow us on X" />
   </a>
   <a href="https://bsky.app/profile/vlt.sh">
-    <img src="https://shieldcn.dev/bluesky/vlt.sh.svg?label=Follow%20on%20Bluesky" alt="Follow us on Bluesky" />
+    <img src="https://shieldcn.dev/bluesky/vlt.sh.svg?mode=light&size=sm&label=Follow%20on%20Bluesky" alt="Follow us on Bluesky" />
   </a>
   <a href="https://www.vlt.community/">
-    <img src="https://shieldcn.dev/discord/1316199667142496307.svg?label=Join%20on%20Discord" alt="Join us on Discord" />
-  </a>
+    <img src="https://shieldcn.dev/discord/1316199667142496307.svg?mode=light&size=sm&label=Join%20on%20Discord" alt="Join us on Discord" />
+    </a>
 </p>
 
 <p align="center"><a href="https://www.vlt.io"><strong>Try VLT free</strong></a> · <a href="https://docs.vlt.sh/">Read our docs</a> · <a href="https://www.vlt.io/blog">Blog</a> · <a href="https://benchmarks.vlt.sh/#/registries/registry-clean">Benchmarks</a></p>
