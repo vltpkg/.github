@@ -10,7 +10,7 @@
 
 <h3 align="center">JavaScript package registries & tooling for teams that move fast.</h3>
 
-<p align="center">vlt is building the infrastructure layer for open source software. We create developer tools, package registries, and software supply chain security solutions that help organizations manage, secure, and control the dependencies they rely on.</p>
+<p align="center">vlt is building the infrastructure layer for open source software. We create developer tools, package registries, and software supply chain security solutions that help organizations manage, secure, and control the dependencies they rely on at speed and at scale.</p>
 
 <p align="center"><a href="https://www.vlt.io"><strong>Try VLT free</strong></a> · <a href="https://docs.vlt.sh/">Read our docs</a> · <a href="https://www.vlt.io/blog">Blog</a></p>
 
