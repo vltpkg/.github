@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h3 align="center">Your team's home for packages.</h3>
+<h3 align="center">JavaScript package registries for teams that move fast.</h3>
 
 <p align="center">vlt is building the infrastructure layer for open source software. We create developer tools, package registries, and software supply chain security solutions that help organizations manage, secure, and control the dependencies they rely on.</p>
 
