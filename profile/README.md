@@ -22,7 +22,7 @@
     <img src="https://shieldcn.dev/x/follow/vltpkg.svg?mode=light&size=xs&label=Follow%20on%20X" alt="Follow us on X" />
   </a>
   <a href="https://bsky.app/profile/vlt.sh">
-    <img src="https://shieldcn.dev/bluesky/vlt.sh.svg?mode=light&size=xs&label=Follow%20on%20Bluesky" alt="Follow us on Bluesky" />
+    <img src="https://shieldcn.dev/bluesky/vlt.io.svg?mode=light&size=xs&label=Follow%20on%20Bluesky" alt="Follow us on Bluesky" />
   </a>
   <a href="https://www.vlt.community/">
     <img src="https://shieldcn.dev/discord/1316199667142496307.svg?mode=light&size=xs&label=Join%20on%20Discord" alt="Join us on Discord" />
